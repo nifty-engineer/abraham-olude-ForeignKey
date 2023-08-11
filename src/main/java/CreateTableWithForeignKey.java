@@ -59,9 +59,6 @@ import java.sql.Statement;
  * This is how we create a foreign key.
  *
  * NOTE: Other flavors of SQL might have different syntax for this however for our labs, this is the syntax we will utilize
- *
- *
- * Additional reference material if needed: https://www.w3schools.com/sql/sql_foreignkey.asp
  */
 public class CreateTableWithForeignKey {
 
